@@ -1,0 +1,1 @@
+import{r as t}from"./index-D7gP2GKN.js";import{u as c}from"./TransitionGroupContext-DjWn5qrS.js";function o(r){const e=t.useRef(r);return c(()=>{e.current=r}),t.useRef((...u)=>(0,e.current)(...u)).current}export{o as u};
