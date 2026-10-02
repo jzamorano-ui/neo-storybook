@@ -1,0 +1,1 @@
+import{r as n,R as s}from"./index-D7gP2GKN.js";const p=typeof window<"u"?n.useLayoutEffect:n.useEffect;function o(t,e){return o=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(r,c){return r.__proto__=c,r},o(t,e)}function u(t,e){t.prototype=Object.create(e.prototype),t.prototype.constructor=t,o(t,e)}const a=s.createContext(null);export{a as T,u as _,p as u};
