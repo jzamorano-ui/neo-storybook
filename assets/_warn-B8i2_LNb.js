@@ -1,0 +1,1 @@
+import{r}from"./index-D7gP2GKN.js";const a=r.createContext(void 0);function c(){return r.useContext(a)}const m=n=>{},i=(n,o,t={})=>o!=null&&String(o).trim()!==""||!!t["aria-label"]||!!t["aria-labelledby"];export{a as F,i as h,c as u,m as w};

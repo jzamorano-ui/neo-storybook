@@ -1,0 +1,1 @@
+const c={acciones:"actions",cerrar:"closable",onVolver:"onBack"};function a(i,n){let e=n;for(const[t,o]of Object.entries(c))t in n&&(e===n&&(e={...n}),o in e||(e[o]=e[t]),delete e[t]);return e}export{a as w};
